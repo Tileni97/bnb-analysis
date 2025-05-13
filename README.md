@@ -13,7 +13,6 @@
 
 ## 📊 Interactive Dashboard Preview
 
-*(Ensure this image path is correct relative to the root of your repository)*
 ![Power BI Dashboard Preview](data/processed/image.png)
 
 link to Dashboard:https://app.powerbi.com/links/KWZ6sjuhCi?ctid=d5cf20c2-4a84-4902-a3e6-c4a3190ea239&pbi_source=linkShare
@@ -79,7 +78,6 @@ link to Dashboard:https://app.powerbi.com/links/KWZ6sjuhCi?ctid=d5cf20c2-4a84-49
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: If `python-binance` requires API keys for certain data, add instructions here on how to securely manage them, e.g., using environment variables or a config file not committed to Git).*
 
 ## ▶️ Usage
 
@@ -99,9 +97,4 @@ link to Dashboard:https://app.powerbi.com/links/KWZ6sjuhCi?ctid=d5cf20c2-4a84-49
 
 ## 📄 License
 
-*(Choose a license, e.g., MIT. Create a LICENSE file in your repo)*
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📫 Contact
-
-[Your Name] - [Your Email or LinkedIn Profile URL]
